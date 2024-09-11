@@ -1,1 +1,1 @@
-console.log("Hi, user! Welcome back to Maxx!")
+console.log("Bienvenid@, usuario!")
